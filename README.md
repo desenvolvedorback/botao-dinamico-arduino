@@ -110,3 +110,6 @@ void loop() {
 
 
 ```
+
+Link do projeto aqui: https://www.tinkercad.com/things/iNdLT8nbmT0-interruptor-dinamico-de-led
+(OBS: Não ultilize o projeto para uso comercial!)
