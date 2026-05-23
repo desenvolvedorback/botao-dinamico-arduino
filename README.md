@@ -28,7 +28,7 @@ O circuito foi projetado para responder em tempo real ao comando do usuário:
 
 O projeto utiliza uma rede de distribuição de energia unificada através das protoboards (barramentos de VCC e GND interligados). Os botões e LEDs estão mapeados diretamente nos pinos digitais do Arduino.
 
-![Esquema do Projeto](./Copy%20of%20treino%20de%20arduino.png) *(Substitua pelo caminho correto da imagem no seu repositório)*
+![Esquema do Projeto](./Copy%20of%20treino%20de%20arduino.png)
 
 ---
 
