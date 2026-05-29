@@ -30,6 +30,8 @@ O projeto utiliza uma rede de distribuição de energia unificada através das p
 
 ![Esquema do Projeto](./Copy%20of%20treino%20de%20arduino.png)
 
+![Esquema do Projeto](./real.png)
+
 ---
 
 ## 💻 Código Exemplo
